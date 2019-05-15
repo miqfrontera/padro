@@ -1,4 +1,4 @@
-#Padro
+# Padro
 Project to register the census of a town over the years.
 
 The main idea is to test some technologies and methodologies on this project.
@@ -8,16 +8,16 @@ feeds the web.
 
 Also try something to do tests in JS. As well to continue using TDD for coding
 
-##Getting Started
+## Getting Started
 
-###Prerequesites
+### Prerequesites
 All the laravel [prerequisites](https://laravel.com/docs/5.8/installation#server-requirements) listed here.
 
-###Installing
+### Installing
 Run the following command:
 ```
 composer install
 ```
 
-###Built With
+### Built With
 * [Laravel](https://laravel.com/) - The web framework used
