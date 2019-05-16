@@ -19,5 +19,9 @@ Run the following command:
 composer install
 ```
 
-### Built With
+## Built With
 * [Laravel](https://laravel.com/) - The web framework used
+
+## License
+
+[GNU General Public License v3.0](LICENSE.md)
